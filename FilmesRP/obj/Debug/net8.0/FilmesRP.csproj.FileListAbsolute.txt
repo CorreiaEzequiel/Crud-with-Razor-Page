@@ -263,3 +263,4 @@ C:\Arquivos .Net\FilmesRP\FilmesRP\bin\Debug\net8.0\runtimes\win\lib\net7.0\Syst
 C:\Arquivos .Net\FilmesRP\FilmesRP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Arquivos .Net\FilmesRP\FilmesRP\obj\Debug\net8.0\FilmesRP.csproj.AssemblyReference.cache
 C:\Arquivos .Net\FilmesRP\FilmesRP\obj\Debug\net8.0\FilmesRP.csproj.CopyComplete
+C:\Arquivos .Net\FilmesRP\FilmesRP\obj\Debug\net8.0\FilmesRP.sourcelink.json
